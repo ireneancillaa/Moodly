@@ -4,7 +4,7 @@
 
 ---
 
-### ✨ Features
+## ✨ Features
 - 🧠 Track your daily mood effortlessly  
 - 📅 View and edit past mood entries  
 - 📊 Visualize your emotional history  
@@ -12,15 +12,15 @@
 
 ---
 
-### 🛠️ Tech Stack
-- **Language:** Swift  
-- **Framework:** SwiftUI  
-- **Architecture:** MVVM  
-- **Persistence:** Local (Swift data handling)
+## 🛠️ Tech Stack
+- **Language :** Swift  
+- **Framework :** SwiftUI  
+- **Architecture :** MVVM  
+- **Persistence :** Local (Swift data handling)
 
 ---
 
-### 🚀 Getting Started
+## 🚀 Getting Started
 ```bash
 git clone https://github.com/ireneancilla/Moodly.git
 open Moodly.xcodeproj
